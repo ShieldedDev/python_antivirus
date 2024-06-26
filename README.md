@@ -26,8 +26,8 @@ pip install python-magic-bin
 ```
 ## Usage :
 ```bash
-  git clone https://github.com/yourusername/simple-antivirus.git
-  cd simple-antivirus
+  git clone https://github.com/ShieldedDev/python_antivirus
+  cd python_antivirus
 ```
 
 ## Run the Script :
